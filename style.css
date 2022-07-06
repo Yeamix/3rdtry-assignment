@@ -36,13 +36,11 @@ h3{
     padding-bottom: 25px;
 }
 .amount-s{
-    margin: 0 0 0 200px;
+    margin: 0 20% 0;
     display: flex;
+    gap: 15px;
     font-size: 35px;
     margin-top: 70px;
-}
-.amount-007{
-    margin:0 15px 0 20px;
 }
 .amount-gray{
     color: #424242;
